@@ -16,7 +16,7 @@ Welcome to the Flutter Zoom Swiper Challenge! This repository showcases a unique
 
 [Flutter Zoom Swiper Demo repo](https://github.com/monster555/flutter_zoom_swiper)
 
-https://github.com/monster555/flutter_challenges/assets/32662133/d1f58321-40c0-4da3-a406-afc6ee0b97df
+https://github.com/monster555/flutter_challenges/assets/32662133/8223fef7-547a-4ccc-b562-681838099b50
 
 ## Contribution Guidelines
 
