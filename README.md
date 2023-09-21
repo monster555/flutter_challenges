@@ -34,6 +34,10 @@ If you'd like to contribute to a specific challenge in this repository by adding
 
 6. Provide a clear description of your contribution in the PR.
 
+7. ## License
+
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 If you have any questions or suggestions about a specific challenge, feel free to reach out to me at danicoy@gamil.com, and you can also take a look at my portfolio at https://portfolio.dctech.dev or https://facefolio.dctech.dev.
