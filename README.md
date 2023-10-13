@@ -12,11 +12,18 @@ This is a sample web app built with Flutter Web, demonstrating a rotating Pokemo
 <img src="https://github.com/monster555/shining_card/blob/main/rotating shining card demo.gif" alt="Pokemon card rotation demo">
 
 ### Flutter Zoom Swiper
-Welcome to the Flutter Zoom Swiper Challenge! This repository showcases a unique Flutter ZoomSwiper that provides an engaging and dynamic user experience through a zoom effect animation as you scroll.
+This repository showcases a unique Flutter ZoomSwiper that provides an engaging and dynamic user experience through a zoom effect animation as you scroll.
 
 [Flutter Zoom Swiper Demo repo](https://github.com/monster555/flutter_zoom_swiper)
 
 https://github.com/monster555/flutter_challenges/assets/32662133/8223fef7-547a-4ccc-b562-681838099b50
+
+### Flutter Parallax Swiper
+The Flutter Parallax Swiper UI Challenge showcases a dynamic parallax swiper widget, designed to elevate your user interface experiences. This widget allows you to create a horizontal swiper that displays a list of images with captivating parallax scrolling effects. Customize its behavior by providing image URLs, enabling drag-to-scroll, setting viewport fractions, adjusting padding, controlling the parallax factor, and toggling foreground fading and background zoom.
+
+[Flutter Parallax Swiper Demo repo](https://github.com/monster555/flutter_parallax_swiper)
+
+https://github.com/monster555/flutter_parallax_swiper/assets/32662133/0f913f3b-94db-487d-9ff5-2af684febb95
 
 ## Contribution Guidelines
 
